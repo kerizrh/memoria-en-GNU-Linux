@@ -1,5 +1,9 @@
 
 # Guía Práctica No. 3 - Gestión de Memoria en GNU/Linux
+## 👨‍💻 Autor
+- **Nombre:** Kevin Armando Rivera Henríquez
+- **Carnet:** RH16042
+- **Fecha:** 26/10/2025
 
 ## 📋 Información General
 - **Universidad:** Universidad de El Salvador
@@ -73,8 +77,5 @@ ulimit -v 51200  # 50 MB límite
 3. **LRU vs FIFO:** LRU es más eficiente en escenarios reales
 4. **Límites de memoria:** Previenen uso excesivo pero requieren manejo de errores
 
-## 👨‍💻 Autor
-- **Nombre:** [Kevin Armando Rivera Henríquez]
-- **Carnet:** [RH16042]
-- **Fecha:** [26/10/2025]
+
 

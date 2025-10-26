@@ -1,4 +1,4 @@
-```markdown
+
 # Guía Práctica No. 3 - Gestión de Memoria en GNU/Linux
 
 ## 📋 Información General
@@ -11,24 +11,6 @@
 
 ## 🎯 Objetivo
 Reforzar los conceptos teóricos de la Unidad 3 mediante ejercicios prácticos en GNU/Linux, familiarizando a los estudiantes con la gestión de memoria.
-
-## 📁 Estructura del Proyecto
-```
-/
-│
-├── ejercicios/
-│   ├── ejercicio1_swap/          # Creación y activación de memoria Swap
-│   ├── ejercicio2_fragmentacion/ # Simulación de fragmentación de memoria
-│   ├── ejercicio3_reemplazo/     # Algoritmos de reemplazo de páginas
-│   └── ejercicio4_limites/       # Límites de memoria por proceso
-│
-├── codigos_fuente/
-│   ├── fragmentacion.c
-│   ├── reemplazo_paginas.c
-│   └── consumidor_memoria.c
-
-└── README.md
-```
 
 ## 🛠️ Ejercicios Realizados
 
@@ -96,6 +78,3 @@ ulimit -v 51200  # 50 MB límite
 - **Carnet:** [RH16042]
 - **Fecha:** [26/10/2025]
 
-## 📞 Soporte
-Para dudas o problemas con la ejecución de los ejercicios, revisar los códigos fuente en la carpeta `codigos_fuente/`.
-```
